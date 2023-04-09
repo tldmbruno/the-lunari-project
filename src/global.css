@@ -1,0 +1,67 @@
+:root {
+	--col-primary: #7edf66;
+	--col-secondary: #ce954a;
+	--col-alert: #f03060;
+	--col-dark: #1b1919;
+	--col-light: #f8f8f8;
+	--col-middle: #66667733;
+
+	font: 1em normal, sans-serif;
+	color: var(--col-light);
+	background-color: var(--col-dark);
+	}
+
+	:root.light {
+		color: var(--col-dark);
+		background-color: var(--col-light);
+	}
+
+body {
+	margin: 0px;
+}
+
+button {
+	padding: .6rem;
+	color: inherit;
+	background-color: inherit;
+	border: 1px solid var(--col-middle);
+	box-sizing: border-box;
+	}
+
+	button:hover {
+		background-color: var(--col-middle);
+	}
+	button:active {
+		color: var(--col-dark);
+		background-color: var(--col-primary);
+	}
+
+h1, h2, h3, h4, h5, h6 {
+	color: var(--col-primary);
+}
+
+.flex {
+	display: flex;
+	justify-content: space-between;
+}
+
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+	}
+	.grid > * {
+		flex: 1 1 10rem;
+	}
+
+.gap {
+	gap: .2rem;
+}
+
+.card {
+	padding: 1rem;
+	border: 1px solid var(--col-middle);
+}
+
+.no-border {
+	border: none;
+}
