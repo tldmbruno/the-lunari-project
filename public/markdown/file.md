@@ -1,44 +1,39 @@
-# Sistema de Regras de RPG
-Escrito por ChatGPT
+# Sistema de regras ULTRA SECRETO 3000
 
-## Atributos
-Existem seis atributos em nosso sistema de RPG:
+d6 vs d6 -> superar por 5+ é crítico
 
-- Força (STR)
-- Destreza (DEX)
-- Constituição (CON)
-- Inteligência (INT)
-- Sabedoria (WIS)
-- Carisma (CHA)
+A cada 10 minutos role a tabela abaixo:
 
-## Rolagem de Dados
-Usamos um dado de 20 faces (d20) para determinar o sucesso ou falha de uma ação. Para rolar um d20, basta digitar `/roll 1d20`.
+1. Morte trágica ou sinal de que ela chegará.
+2. Algo importante quebra ou desmorona.
+3. Alguém desaparece.
+4. Ambiente ou clima fica mais dramático ou perigoso.
+5. Desconhecidos oferecem ajuda.
+6. Conhecido amigo reaparace, mudado.
 
-## Testes de Atributos
-Para testar um atributo, o jogador deve rolar um d20 e adicionar o valor do atributo relevante. Se o resultado for igual ou maior que a dificuldade do teste, o teste é bem sucedido.
+Ao vasculhar um corpo, além de encontrar arma, comida, dinheiro, munição, etc.
 
-Exemplo: o personagem está tentando arrombar uma porta trancada. O Mestre define a dificuldade do teste como 15. O jogador então rola um d20 e adiciona sua força (STR) ao resultado. Se o resultado for 15 ou maior, o personagem consegue arrombar a porta.
+1. Ele está vivo! Ataque crítico surpresa.
+2. Encontra ferimento ou símbolo bizarro.
+3. Descobre que ele trabalhava para o lado oposto do esperado.
+4. Vê indícios de mais corpos.
+5. Informação relevante, escrita para ele.
+6. Endinheirado ou jóias valiosas.
 
-## Combate
-### Iniciativa
-No início do combate, cada jogador deve rolar um d20 e adicionar sua destreza (DEX) ao resultado. O jogador com o resultado mais alto vai primeiro.
+Ao vasculhar um local, role.
 
-### Ataque
-Para atacar um oponente, o jogador deve rolar um d20 e adicionar seu bônus de ataque. Se o resultado for igual ou maior que a classe de armadura (CA) do oponente, o ataque acerta.
+1. Armadilha ou ataque surpresa!
+2. Dispara alarme ou algo faz barulho demais.
+3. Saída é trancada por forças externas.
+4. Pista enigmática ou rastros anormais.
+5. Algo que parecia velho é na verdade valioso.
+6. Passagem secreta ou dica para encontrar uma.
 
-### Dano
-Se o ataque acertar, o jogador rola o dano correspondente à arma utilizada e subtrai o valor da defesa do oponente.
+Ao finalizar a sessão...
 
-## Níveis e Experiência
-O personagem começa no nível 1 e precisa acumular uma certa quantidade de pontos de experiência (XP) para subir de nível. A quantidade de XP necessária para subir de nível aumenta a cada nível.
-
-- Nível 1: 0 XP
-- Nível 2: 100 XP
-- Nível 3: 200 XP
-- Nível 4: 400 XP
-- Nível 5: 800 XP
-- Nível 6: 1600 XP
-- Nível 7: 3200 XP
-- Nível 8: 6400 XP
-- Nível 9: 12800 XP
-- Nível 10: 25600 XP
+1. A pior coisa que podia voltar, voltou mudada.
+2. Repreendidos em vez de recompensados.
+3. Sinal de relacionamento desmoronando.
+4. Alarme falso de que algo iria piorar. Paz.
+5. Sinal de que uma amizade se tornou algo mais.
+6. Conhecido amigo, supostamente morto, volta.
