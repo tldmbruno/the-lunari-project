@@ -11,3 +11,4 @@ export default function Reader({content}: ReaderProps) {
     <div dangerouslySetInnerHTML={{__html: md.render(content)}}></div>
   );
 }
+

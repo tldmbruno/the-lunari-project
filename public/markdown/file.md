@@ -1,21 +1,37 @@
-# Sistema de regras ULTRA SECRETO 3000
+# RPG Lite rules
 
 ## CORE
 
-- ♻ Ciclo de jogo.
+- 🌊 Ciclo de jogo.
 - 🎲 d6 vs d6 -> superar por 5+ é crítico.
-- ⚔ 3 golpes derruba e desorienta, +1 mata. Com armadura aguenta 1 a 3 a mais.
+- 💀 3 golpes derruba e desorienta, +1 mata. Com armadura aguenta 1 a 3 a mais.
 - 💖 Restaura 1 golpe por noite bem dormida. Cuidados restauram +1.
-- 🔮 Magias gastam cargas. X cargas por item, depende do gênero. Recarrega todas por dia.
+- 🔮 Magias vêm de itens que gastam cargas. X cargas por item, depende do gênero. Recarrega todas por dia.
+
+---
 
 ## JOGADORES
 
-- Qualidade de possui desde a infância.
-- Defeito praticamente irreparável.
-- Ocupação no qual é razoavelmente bom.
-- 3 itens relevantes.
+- 💪 Qualidade, possui desde a infância.
+- 👎 Defeito, praticamente irreparável.
+- 💼 Arquétipo ou ocupação. Como você contribui para a sociedade?
+- 🎒 3 itens relevantes, +1 com enorme apego emocional.
+- 📜 Nome e título ou apelido.
 
-O Mestre então fará alterações se julgar necessário. Aceite-as ou refaça e escolha entre as duas versões alteradas.
+O Mestre então fará alterações se julgar necessário. Aceite-as ou refaça e escolha entre as duas versões alteradas. Apenas então passe a limpo.
+
+No final de sua primeira sessão, anote uma coisa no qual falhou por pouco na sessão. Agora você está "Familiarizado com *situação específica*" e pode informar o Mestre quando essa mesma situação ocorrer novamente. O Mestre pode considerar isso para lhe conceder +1 na rolagem ou alterar a intensidade das consequências. Você pode abreviar para "+situação" na hora de anotar. Após a primeira vez, pode conquistar outra familiaridade após 2 sessões, depois após 3, 4, 5, 6, e assim por diante. Você pode reiniciar essa contagem ao adicionar +1 defeito.
+
+Exemplo de lista de familiaridades após 10 sessões, sem pegar defeitos adicionais:
+
+```
++atq. espada curta
++saltar de buraco
++arrombar tranca
++defender chamas c/ escudo
+```
+
+---
 
 ## MESTRE
 
